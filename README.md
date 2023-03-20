@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX, UI and all things design.
 - 🌱 I’m currently learning everything I can about UX, cognitive psychology and design systems.
 - 💞️ I’m looking to collaborate with colleagues on how to improve our product visually and experience-ly.
-- 📫 How to reach me - you know how ;-)
+- 📫 How to reach me: marinet.garlipp@gmail.com
 
 <!---
 marinetg/marinetg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
