@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marinetg
 - 👀 I’m interested in UX, UI and all things design.
-- 🌱 I’m currently learning everything I can about UX, cognitive psychology and Design Thinking.
+- 🌱 I’m currently learning everything I can about UX, cognitive psychology and design systems.
 - 💞️ I’m looking to collaborate with colleagues on how to improve our product visually and experience-ly.
 - 📫 How to reach me - you know how ;-)
 
